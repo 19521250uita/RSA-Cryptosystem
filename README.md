@@ -24,7 +24,9 @@ Thời gian giải mã: 72.95
 
 
 Hình 1: Chạy thử Mã hoá folder
+![image](https://user-images.githubusercontent.com/92638430/160086944-95e57253-100c-45f1-b2cf-21524c9f0bbb.png)
 
 
 
 Hình 2: Chạy thử Giải mã folder
+![image](https://user-images.githubusercontent.com/92638430/160087015-c64cf8bb-0baf-4ce2-9afd-f41c746a5302.png)
